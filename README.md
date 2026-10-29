@@ -38,6 +38,9 @@ Follow us for updates and announcements:
 
 Made with ❤️ by Amir
 
+developer GitHub 
+
+https://github.com/amir-kalin
 وب سایت 👇
 https://zenvpn.vercel.app
 
