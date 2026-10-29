@@ -38,4 +38,7 @@ Follow us for updates and announcements:
 
 Made with ❤️ by Amir
 
+وب سایت 👇
+https://zenvpn.vercel.app
+
 </div>
