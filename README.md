@@ -4,10 +4,6 @@
 
 تجربه‌ای مدرن، ساده و کاربردی در دنیای اتصال
 
-<img src="zenix-vpn.png" width="300" alt="Zenix VPN"><br>""Developer" (https://img.shields.io/badge/Developer-Amir__nabimir-8A2BE2?style=for-the-badge)" (https://t.me/Amir_nabimir)
-""Telegram" (https://img.shields.io/badge/Telegram-Join%20Channel-0088CC?style=for-the-badge&logo=telegram)" (https://t.me/thezenixvpn)
-
-</div>---
 
 ✨ About Zenix VPN
 
